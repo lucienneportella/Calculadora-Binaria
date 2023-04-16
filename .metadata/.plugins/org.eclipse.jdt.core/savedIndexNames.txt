@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Lucienne\Documents\Interface_grafica_Java\CalculadoraBinaria\.metadata\.plugins\org.eclipse.jdt.core
